@@ -1,0 +1,30 @@
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\bin\Debug\JuegoMarmota.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\bin\Debug\JuegoMarmota.exe
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\bin\Debug\JuegoMarmota.pdb
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.exe
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.pdb
+C:\Users\auror\OneDrive\Escritorio\ASESORIAS-gh-pages\ASESORIAS-gh-pages\Ejercicios\26.- JuegoMarmota\JuegoMarmota\bin\Debug\JuegoMarmota.exe.config
+C:\Users\auror\OneDrive\Escritorio\ASESORIAS-gh-pages\ASESORIAS-gh-pages\Ejercicios\26.- JuegoMarmota\JuegoMarmota\bin\Debug\JuegoMarmota.exe
+C:\Users\auror\OneDrive\Escritorio\ASESORIAS-gh-pages\ASESORIAS-gh-pages\Ejercicios\26.- JuegoMarmota\JuegoMarmota\bin\Debug\JuegoMarmota.pdb
+C:\Users\auror\OneDrive\Escritorio\ASESORIAS-gh-pages\ASESORIAS-gh-pages\Ejercicios\26.- JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.csprojAssemblyReference.cache
+C:\Users\auror\OneDrive\Escritorio\ASESORIAS-gh-pages\ASESORIAS-gh-pages\Ejercicios\26.- JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.Form1.resources
+C:\Users\auror\OneDrive\Escritorio\ASESORIAS-gh-pages\ASESORIAS-gh-pages\Ejercicios\26.- JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.Properties.Resources.resources
+C:\Users\auror\OneDrive\Escritorio\ASESORIAS-gh-pages\ASESORIAS-gh-pages\Ejercicios\26.- JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.csproj.GenerateResource.cache
+C:\Users\auror\OneDrive\Escritorio\ASESORIAS-gh-pages\ASESORIAS-gh-pages\Ejercicios\26.- JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.csproj.CoreCompileInputs.cache
+C:\Users\auror\OneDrive\Escritorio\ASESORIAS-gh-pages\ASESORIAS-gh-pages\Ejercicios\26.- JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.exe
+C:\Users\auror\OneDrive\Escritorio\ASESORIAS-gh-pages\ASESORIAS-gh-pages\Ejercicios\26.- JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.pdb
+C:\Users\auror\OneDrive\Escritorio\Marmota\JuegoMarmota\obj\Debug\JuegoMarmota.csprojAssemblyReference.cache
+C:\Users\auror\OneDrive\Escritorio\Marmota\JuegoMarmota\obj\Debug\JuegoMarmota.exe
+C:\Users\auror\OneDrive\Escritorio\Marmota\JuegoMarmota\obj\Debug\JuegoMarmota.pdb
+C:\Users\auror\OneDrive\Escritorio\Marmota\JuegoMarmota\bin\Debug\JuegoMarmota.exe.config
+C:\Users\auror\OneDrive\Escritorio\Marmota\JuegoMarmota\bin\Debug\JuegoMarmota.exe
+C:\Users\auror\OneDrive\Escritorio\Marmota\JuegoMarmota\bin\Debug\JuegoMarmota.pdb
+C:\Users\auror\OneDrive\Escritorio\Marmota\JuegoMarmota\obj\Debug\JuegoMarmota.Form1.resources
+C:\Users\auror\OneDrive\Escritorio\Marmota\JuegoMarmota\obj\Debug\JuegoMarmota.Properties.Resources.resources
+C:\Users\auror\OneDrive\Escritorio\Marmota\JuegoMarmota\obj\Debug\JuegoMarmota.csproj.GenerateResource.cache
+C:\Users\auror\OneDrive\Escritorio\Marmota\JuegoMarmota\obj\Debug\JuegoMarmota.csproj.CoreCompileInputs.cache
+C:\Users\auror\OneDrive\Escritorio\Marmota\JuegoMarmota\obj\Debug\JuegoMarmota.Form2.resources
